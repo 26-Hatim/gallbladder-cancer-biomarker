@@ -1,0 +1,5 @@
+study,panel,genes_present,AUC
+GSE62335,Muscle side (= original top-20),14,skipped
+GSE62335,Tumor-high side,10,skipped
+GSE308395,Muscle side (= original top-20),8,skipped
+GSE308395,Tumor-high side,1,skipped

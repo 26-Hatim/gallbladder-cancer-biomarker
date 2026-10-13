@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+data/
+results/run_log.txt
